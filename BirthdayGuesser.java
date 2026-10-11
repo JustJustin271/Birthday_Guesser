@@ -41,7 +41,7 @@ public class Birthday {
 	public static int binary(boolean placeOne, boolean placeTwo, boolean placeFour, boolean placeEight, boolean placeSixteen) {
         
 		int result = 0;
-
+		
 		if (placeOne) {
 			result += 1;
 		}
